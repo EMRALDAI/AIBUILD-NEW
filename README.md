@@ -17,10 +17,10 @@ This repository contains the code and resources for our AI Anomaly Detection Mod
 The AI Anomaly Detection Model aims to identify unusual patterns that may indicate security breaches or vulnerabilities. This model is particularly useful for detecting zero-day vulnerabilities, malicious activities, and other security threats in a proactive manner.
 
 ## Features
-- **Real-time Anomaly Detection:** Continuously monitors data streams to detect anomalies in real-time.
-- **Machine Learning Algorithms:** Utilizes state-of-the-art machine learning techniques for accurate anomaly detection.
-- **Scalable and Flexible:** Easily scalable to handle large volumes of data and adaptable to various cybersecurity use cases.
-- **User-friendly Interface:** Provides an intuitive interface for monitoring and managing detected anomalies.
+- **Real-time Anomaly Detection**: Continuously monitors data streams to detect anomalies in real-time.
+- **Machine Learning Algorithms**: Utilizes state-of-the-art machine learning techniques for accurate anomaly detection.
+- **Scalable and Flexible**: Easily scalable to handle large volumes of data and adaptable to various cybersecurity use cases.
+- **User-friendly Interface**: Provides an intuitive interface for monitoring and managing detected anomalies.
 
 ## Installation
 ### Prerequisites
@@ -99,11 +99,7 @@ We welcome contributions to enhance the functionality and performance of the AI 
 4. Create a pull request to merge your changes into the main repository.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Proprietary License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or inquiries, please contact Skyla at skylamiranda643@gmail.com(mailto:skylamiranda643@gmail.com).
-
----
-
-Feel free to adjust the content to match the specifics of your project and your preferred practices.
+For any questions or inquiries, please contact Skyla at [skylamiranda643@gmail.com](mailto:skylamiranda643@gmail.com).

@@ -102,7 +102,7 @@ We welcome contributions to enhance the functionality and performance of the AI 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or inquiries, please contact Skyla at [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, please contact Skyla at skylamiranda643@gmail.com(mailto:skylamiranda643@gmail.com).
 
 ---
 

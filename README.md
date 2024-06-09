@@ -1,7 +1,3 @@
-Creating a comprehensive README file for your private AI model on GitHub is essential to ensure that collaborators understand the purpose, usage, and setup of your project. Here’s a template that you can use and customize according to your needs:
-
----
-
 # AI Anomaly Detection Model
 
 ## Overview
